@@ -1,0 +1,21 @@
+{
+  "name": "NSS-Node-Exercises-19",
+  "version": "1.0.0",
+  "description": "NSS Node.JS Exercises: 19 - HTTP Server",
+  "main": "server01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmorris926/NSS-Node-Exercises-19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmorris926/NSS-Node-Exercises-19/issues"
+  },
+  "homepage": "https://github.com/sarahmorris926/NSS-Node-Exercises-19#readme",
+  "dependencies": {}
+}
